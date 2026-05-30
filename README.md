@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🌟 Welcome to My Digital Space
+## 🌟 Welcome to My Digital Space
 
 **Crafting exceptional digital experiences through innovative code and stunning design**
 
@@ -154,22 +154,79 @@ Empowering students with comprehensive academic tools, advanced analytics, and s
 
 <div align="center">
 
-```
-🚀 Active Learning Path
-   
-   🔥 Building Next-Gen Products
-   ├─ Advanced Flutter Animations & Motion Design
-   ├─ AI/ML Integration in Mobile Apps
-   ├─ Micro-interactions & Motion Design
-   ├─ Advanced State Management Patterns
-   └─ Scaling SaaS Products from 0 to 1
+### 🔥 Building Next-Gen Products
 
-   💡 Exploring New Technologies
-   ├─ Generative AI Integration
-   ├─ Real-time Data Synchronization
-   ├─ Progressive Web Apps (PWA)
-   └─ Cross-Platform Performance Optimization
-```
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Advanced Flutter Animations**  
+✨ Motion Design & Micro-interactions  
+→ Creating fluid, beautiful UX
+
+</td>
+<td align="center" width="50%">
+
+**AI/ML Integration**  
+🤖 Intelligent Mobile Apps  
+→ Powering smart solutions
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**State Management**  
+⚡ Advanced Patterns & Architecture  
+→ Scalable app foundations
+
+</td>
+<td align="center" width="50%">
+
+**SaaS Products**  
+🚀 Building 0 to 1 Products  
+→ From idea to market
+
+</td>
+</tr>
+</table>
+
+### 💡 Exploring New Technologies
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Generative AI**  
+🌟 LLM Integration & ML Models  
+→ Next-generation features
+
+</td>
+<td align="center" width="50%">
+
+**Real-time Sync**  
+📡 Instant Data Synchronization  
+→ Seamless user experiences
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**Progressive Web Apps**  
+🌐 PWA & Web Performance  
+→ Fast, installable web apps
+
+</td>
+<td align="center" width="50%">
+
+**Performance Optimization**  
+⚙️ Cross-Platform Excellence  
+→ Blazing-fast applications
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -190,27 +247,62 @@ Empowering students with comprehensive academic tools, advanced analytics, and s
 
 ---
 
-🤝 Let's Build Together
+## 🤝 Let's Build Together
 
 <div align="center">
 
-I'm passionate about collaborating on:
+### What Excites Me
 
-</div>
+<table>
+<tr>
+<td align="center" width="33%">
 
-```
-🎯 What Excites Me
-   ├─ 🚀 Innovative products that push boundaries
-   ├─ 🎨 Design-focused applications with beautiful UI
-   ├─ 🤖 AI-powered intelligent solutions
-   ├─ 💡 Impactful products solving real problems
-   ├─ 👥 Open-source contributions & community
-   └─ 🌟 Learning & growing together
-```
+🚀 **Innovative Products**  
+Pushing boundaries  
+Breaking the norm
 
-<div align="center">
+</td>
+<td align="center" width="33%">
 
-**📧 Let's Connect:** Always open to exciting conversations about tech, design, and innovation!
+🎨 **Design Excellence**  
+Beautiful UI/UX  
+User-focused design
+
+</td>
+<td align="center" width="33%">
+
+🤖 **AI Solutions**  
+Intelligent apps  
+Smart automation
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+💡 **Impact & Purpose**  
+Real problem solving  
+Making a difference
+
+</td>
+<td align="center" width="33%">
+
+👥 **Community**  
+Open-source projects  
+Knowledge sharing
+
+</td>
+<td align="center" width="33%">
+
+🌟 **Growth**  
+Learning together  
+Continuous improvement
+
+</td>
+</tr>
+</table>
+
+**📧 Always open to exciting conversations about tech, design, and innovation!**
 
 </div>
 
@@ -219,17 +311,17 @@ I'm passionate about collaborating on:
 ## 📫 Get in Touch
 
 <div align="center">
-   
-
-
-**Let's Create Something Amazing Together**
-
-Building the future, one pixel and one line of code at a time.
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iliyazdev)
-[![Email%20Me](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iliyazdev@gmail.com) 
+[![Email%20Me](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iliyazdev@gmail.com)
+[![GitHub%20Profile](https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iliyazdev)
+
+<br/>
+
+### ✨ Let's Create Something Amazing Together ✨
+
+**Building the future, one pixel and one line of code at a time.** 🚀
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
 
 </div>
