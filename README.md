@@ -152,7 +152,7 @@ Empowering students with comprehensive academic tools, advanced analytics, and s
 
 ## 🎯 Current Focus & Innovation
 
-<div align="center">
+<div align="left">
 
 ### 🔥 Building Next-Gen Products
 
@@ -196,23 +196,15 @@ Empowering students with comprehensive academic tools, advanced analytics, and s
 
 ## 💼 Open Opportunities
 
-<div align="center">
+<div align="left">
 
-**🎯 Flutter Developer**  
-Full-time / Internship  
-*Building Mobile Excellence*
+**🎯 Flutter Developer**  Full-time / Internship  *Building Mobile Excellence*
 
-**🎨 UI/UX Designer**  
-Freelance / Contract  
-*Designing Beautiful Experiences*
+**🎨 UI/UX Designer**  Freelance / Contract  *Designing Beautiful Experiences*
 
-**💻 Frontend Engineer**  
-Full-time / Freelance  
-*Creating Stunning Interfaces*
+**💻 Frontend Engineer**  Full-time / Freelance  *Creating Stunning Interfaces*
 
-**🚀 Product Developer**  
-Freelance / Part-time  
-*Building Digital Innovation*
+**🚀 Product Developer**  Freelance / Part-time  *Building Digital Innovation*
 
 </div>
 
@@ -224,19 +216,19 @@ Freelance / Part-time
 
 ### What Excites Me
 
-**🚀 Innovative Products**  Pushing boundaries • Breaking the norm  *Creating products that reshape industries*
+**Innovative Products**  Pushing boundaries • Breaking the norm  *Creating products that reshape industries*
 
-**🎨 Design Excellence**  Beautiful UI/UX • User-focused design  *Every pixel, every interaction matters*
+**Design Excellence**  Beautiful UI/UX • User-focused design  *Every pixel, every interaction matters*
 
-**🤖 AI Solutions**  Intelligent apps • Smart automation  *Powering the future with technology*
+**AI Solutions**  Intelligent apps • Smart automation  *Powering the future with technology*
 
-**💡 Impact & Purpose**  Real problem solving • Making a difference  *Building products that matter*
+**Impact & Purpose**  Real problem solving • Making a difference  *Building products that matter*
 
-**👥 Community**  Open-source projects • Knowledge sharing  *Growing together with the community*
+**Community**  Open-source projects • Knowledge sharing  *Growing together with the community*
 
-**🌟 Growth**  Learning together • Continuous improvement  *Always evolving, always learning*
+**Growth**  Learning together • Continuous improvement  *Always evolving, always learning*
 
-**📧 Always open to exciting conversations about tech, design, and innovation!**
+**Always open to exciting conversations about tech, design, and innovation!**
 
 </div>
 
