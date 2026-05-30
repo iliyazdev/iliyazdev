@@ -38,7 +38,7 @@
 
 > **A passion for games sparked my journey into technology.**
 >
-> What began as curiosity evolved into building mobile apps, digital products, and user experiences that solve real problems. Today, I focus on Flutter, UI/UX design, and modern web development turning ideas into products people genuinely enjoy using, every project is a step toward mastering the craft of building meaningful digital experiences.
+> What began as curiosity evolved into building mobile apps, digital products, and user experiences that solve real problems, today, I focus on Flutter, UI/UX design, and modern web development turning ideas into products people genuinely enjoy using, every project is a step toward mastering the craft of building meaningful digital experiences.
 
 >
 > **I started as a gamer, now I build the experiences I once dreamed of playing.**
