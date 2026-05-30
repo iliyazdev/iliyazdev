@@ -60,16 +60,21 @@
 
 <table width="100%">
 <tr>
+
+
+
 <td width="25%" align="center">
+  
+<br/>
 
 **📱 Mobile Apps**
 
 <br/>
-Cross-platform Flutter applications with pixel-perfect UI, smooth animations, and production-grade architecture
+Flutter applications with pixel-perfect UI, smooth animations, and production-grade 
 
 </td>
 <td width="25%" align="center">
-
+  
 **🎨 Digital Experiences**
 
 <br/>
