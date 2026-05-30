@@ -34,13 +34,14 @@
 
 </div>
 
-> *I'm a developer who got bored writing code that nobody uses.*
+## 〔 The Story 〕
+
+> **A passion for games sparked my journey into technology.**
 >
-> So I started building things people actually need — apps that run real campuses, automate homes, and streamline how people work with documents. I care deeply about the intersection of **engineering precision** and **design intuition**. Every pixel, every interaction, every data flow — it all matters.
+> What began as curiosity evolved into building mobile apps, digital products, and user experiences that solve real problems. Today, I focus on Flutter, UI/UX design, and modern web development turning ideas into products people genuinely enjoy using, every project is a step toward mastering the craft of building meaningful digital experiences.
+
 >
-> I build with **Flutter** because it lets me craft beautiful, native experiences across every platform without compromise. I design with intent, ship with confidence, and keep learning obsessively.
->
-> **I'm not chasing a job title. I'm building a body of work.**
+> **I started as a gamer, now I build the experiences I once dreamed of playing.**
 
 <br/>
 
