@@ -190,7 +190,7 @@ Empowering students with comprehensive academic tools, advanced analytics, and s
 
 ---
 
-## 🤝 Let's Build Together
+🤝 Let's Build Together
 
 <div align="center">
 
@@ -216,9 +216,11 @@ I'm passionate about collaborating on:
 
 ---
 
-## 📫 Get in Touch
+# 📫 Get in Touch
 
 ---
+
+<div align="center">
    
 **Let's Create Something Amazing Together**
 
