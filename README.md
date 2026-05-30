@@ -224,29 +224,17 @@ Freelance / Part-time
 
 ### What Excites Me
 
-**🚀 Innovative Products**  
-Pushing boundaries • Breaking the norm  
-*Creating products that reshape industries*
+**🚀 Innovative Products**  Pushing boundaries • Breaking the norm  *Creating products that reshape industries*
 
-**🎨 Design Excellence**  
-Beautiful UI/UX • User-focused design  
-*Every pixel, every interaction matters*
+**🎨 Design Excellence**  Beautiful UI/UX • User-focused design  *Every pixel, every interaction matters*
 
-**🤖 AI Solutions**  
-Intelligent apps • Smart automation  
-*Powering the future with technology*
+**🤖 AI Solutions**  Intelligent apps • Smart automation  *Powering the future with technology*
 
-**💡 Impact & Purpose**  
-Real problem solving • Making a difference  
-*Building products that matter*
+**💡 Impact & Purpose**  Real problem solving • Making a difference  *Building products that matter*
 
-**👥 Community**  
-Open-source projects • Knowledge sharing  
-*Growing together with the community*
+**👥 Community**  Open-source projects • Knowledge sharing  *Growing together with the community*
 
-**🌟 Growth**  
-Learning together • Continuous improvement  
-*Always evolving, always learning*
+**🌟 Growth**  Learning together • Continuous improvement  *Always evolving, always learning*
 
 **📧 Always open to exciting conversations about tech, design, and innovation!**
 
