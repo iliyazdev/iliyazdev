@@ -1,125 +1,475 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=SHAIK%20ILIYAZ&fontSize=70&fontColor=FFFFFF&fontAlignY=45&desc=Flutter%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Full%20Stack&descAlignY=70&descSize=18&descColor=FFFFFF"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      HERO SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SHAIK%20ILIYAZ&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20products%20that%20feel%20inevitable.&descSize=18&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
+
+<!-- Animated Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Flutter+Developer+%7C+UI%2FUX+Designer;Frontend+Engineer+%7C+Full+Stack+Developer;AI+Product+Builder+%7C+Digital+Craftsman;I+don%27t+just+write+code+%E2%80%94+I+ship+products." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/iliyazdev?style=for-the-badge&logo=github&logoColor=white&color=7c3aed&labelColor=1e1b4b)](https://github.com/iliyazdev)
+&nbsp;
+[![Profile views](https://komarev.com/ghpvc/?username=iliyazdev&style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=PROFILE+VIEWS)](https://github.com/iliyazdev)
+&nbsp;
+[![Open to Work](https://img.shields.io/badge/Open%20To-Opportunities-22c55e?style=for-the-badge&logoColor=white&labelColor=14532d)](mailto:iliyaz@example.com)
+
+<br/><br/>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    PERSONAL STORY                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🌟 Hey, I'm Shaik Iliyaz
-
-**Building beautiful mobile apps and digital experiences**
+## 〔 The Story 〕
 
 </div>
 
----
+> *I'm a developer who got bored writing code that nobody uses.*
+>
+> So I started building things people actually need — apps that run real campuses, automate homes, and streamline how people work with documents. I care deeply about the intersection of **engineering precision** and **design intuition**. Every pixel, every interaction, every data flow — it all matters.
+>
+> I build with **Flutter** because it lets me craft beautiful, native experiences across every platform without compromise. I design with intent, ship with confidence, and keep learning obsessively.
+>
+> **I'm not chasing a job title. I'm building a body of work.**
 
-## 👨‍💻 About Me
-
-I'm a Flutter Developer and UI/UX Designer passionate about creating beautiful, user-friendly applications. I love turning ideas into reality through clean code and stunning design.
-
-**What I do:**
-- 📱 Build amazing Flutter apps
-- 🎨 Design beautiful user interfaces  
-- 💻 Create responsive web experiences
-- 🚀 Ship products that users love
+<br/>
 
 ---
 
-## 🚀 Projects
+<br/>
 
-### 🟡 YOLO PDF
-**Premium PDF Tools Platform** (Currently Building)
-
-A modern PDF app with merge, split, compress, convert, and OCR features. Built with Flutter and Firebase.
-
-**Tech:** Flutter • Firebase • REST APIs
-
----
-
-### 🏫 College Management App
-**Complete Campus Management System**
-
-Full-featured platform for students and faculty with attendance, timetables, and real-time notifications.
-
-**Tech:** Flutter • Firebase • Firestore
-
----
-
-### 🏠 Smart Home Automation
-**IoT Home Control System**
-
-Voice-controlled home automation with ESP32 integration for smart appliance management.
-
-**Tech:** ESP32 • Arduino • Sinric Pro
-
----
-
-### 🎓 Student Portal
-**Academic Dashboard**
-
-Responsive student management system with grades, attendance tracking, and academic analytics.
-
-**Tech:** Python • Django • HTML • CSS • JavaScript
-
----
-
-## 🛠️ Tech Stack
-
-**Mobile & Frontend:**  
-Flutter • Dart • React • TypeScript • HTML5 • CSS3 • JavaScript
-
-**Design:**  
-Figma • UI/UX Design • Prototyping
-
-**Tools:**  
-Git • GitHub • VS Code • Firebase
-
----
-
-## 🎯 Currently Learning
-
-- Advanced Flutter animations & motion design
-- AI/ML integration in mobile apps
-- Building SaaS products
-- Progressive Web Apps
-- Real-time data synchronization
-
----
-
-## 💼 Open to Opportunities
-
-- Flutter Developer roles (Full-time / Internship)
-- UI/UX Design projects (Freelance)
-- Frontend development (Full-time / Freelance)
-- Building digital products
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in:
-- Building innovative products
-- Design-focused applications
-- AI-powered solutions
-- Solving real problems
-- Open-source collaboration
-- Learning and growing together
-
----
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iliyazdev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iliyazdev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iliyazdev)
-
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   WHAT I BUILD SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-**Let's build something amazing together** 🚀
+## ⬡ &nbsp;What I Build
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+**📱 Mobile Apps**
+<br/>
+Cross-platform Flutter applications with pixel-perfect UI, smooth animations, and production-grade architecture
+
+</td>
+<td width="25%" align="center">
+
+**🎨 Digital Experiences**
+<br/>
+UI/UX design systems, component libraries, and interfaces that feel native to every device they land on
+
+</td>
+<td width="25%" align="center">
+
+**🌐 Web Platforms**
+<br/>
+Full-stack web applications with React/Next.js frontends and Django or Firebase backends
+
+</td>
+<td width="25%" align="center">
+
+**🤖 AI-Powered Products**
+<br/>
+Smart features, document intelligence, and AI integrations woven directly into user workflows
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK SECTION                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⬡ &nbsp;Tech Stack
+
+### Core — The tools I reach for first
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Frontend — Where design meets code
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Backend & Cloud — What powers it all
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### IoT & Embedded — Connecting the physical world
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  PRODUCT SHOWCASE SECTION                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⬡ &nbsp;Products I've Shipped
+
+*Real projects. Real problems solved.*
+
+</div>
+
+<br/>
+
+### 🚀 &nbsp;YOLO PDF — Premium PDF Productivity Platform
+
+> **The product:** A full-featured PDF productivity platform that lets users annotate, compress, merge, convert, and interact with documents — built to compete with paid SaaS tools.
+
+| | |
+|---|---|
+| **Stack** | Flutter · Firebase · PDF rendering engine · Cloud Functions |
+| **What makes it different** | AI-assisted document workflows — not just a viewer, but a smart workspace |
+| **Designed for** | Professionals, students, and teams who live inside documents |
+
+`Flutter` `Firebase` `AI Integration` `Cloud Storage` `Cross-Platform`
+
+---
+
+### 🏫 &nbsp;College Management App — Digital Campus Ecosystem
+
+> **The product:** A complete campus management system — attendance tracking, timetable management, faculty-student communication, announcements, and academic records in one cohesive app.
+
+| | |
+|---|---|
+| **Stack** | Flutter · Firebase · Firestore · Admin Panel |
+| **What makes it different** | Role-based architecture: separate dashboards for students, faculty, and admins |
+| **Designed for** | Colleges and institutions replacing paper-heavy administrative workflows |
+
+`Flutter` `Firebase` `Role-Based Auth` `Real-time DB` `Admin Dashboard`
+
+---
+
+### 🏠 &nbsp;Smart Home Automation — IoT-Based Living System
+
+> **The product:** A mobile-controlled smart home system that manages lighting, fans, appliances, and sensors — with real-time feedback and automation rules.
+
+| | |
+|---|---|
+| **Stack** | Flutter · Arduino · MQTT · Raspberry Pi · Firebase |
+| **What makes it different** | Custom hardware integration with a beautiful, consumer-grade mobile UI |
+| **Designed for** | Home automation enthusiasts and smart living projects |
+
+`Flutter` `IoT` `Arduino` `MQTT` `Embedded Systems` `Real-Time Control`
+
+---
+
+### 🎓 &nbsp;Student Portal System — Academic Management Platform
+
+> **The product:** A Django-powered web platform for students to access grades, schedules, assignments, and notices — with a clean, responsive frontend.
+
+| | |
+|---|---|
+| **Stack** | Python · Django · PostgreSQL · HTML/CSS · Bootstrap |
+| **What makes it different** | Clean server-side architecture with intuitive UX — built to actually be used |
+| **Designed for** | Colleges needing a no-frills, reliable student information system |
+
+`Python` `Django` `PostgreSQL` `Web App` `Academic Platform`
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   JOURNEY TIMELINE                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⬡ &nbsp;The Journey
+
+</div>
+
+```
+▸ 2021  ──────────────────────────────────────────────────────────────────
+         Started with Python. Fell in love with building things from
+         nothing. First CLI tools, first web scrapers. The spark.
+
+▸ 2022  ──────────────────────────────────────────────────────────────────
+         Discovered Flutter. Realized I could build for every platform
+         with one codebase. First mobile app shipped. No going back.
+
+▸ 2023  ──────────────────────────────────────────────────────────────────
+         Built the College Management App. First real-world deployment.
+         Learned what it means to build for actual users, not demos.
+         Django + Python backend work deepened alongside.
+
+▸ 2024  ──────────────────────────────────────────────────────────────────
+         Expanded into UI/UX design. Started treating Figma as a
+         first-class tool. Smart Home project bridged hardware + software.
+         Firebase architecture became second nature.
+
+▸ 2025  ──────────────────────────────────────────────────────────────────
+         YOLO PDF — most ambitious project yet. AI integrations, cloud
+         functions, production-grade PDF engine. Thinking in products,
+         not features. Web frontend work with React/Next.js scaling up.
+
+▸ NOW   ──────────────────────────────────────────────────────────────────
+         Building in public. Contributing to open source. Exploring
+         AI-native application design. Looking for the next big problem.
+```
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CURRENT FOCUS SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⬡ &nbsp;Current Focus
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+**🔨 &nbsp;Building**
+- AI-assisted features in Flutter apps using Gemini API
+- Production-ready Flutter architecture patterns (Clean Architecture + Riverpod)
+- Component design systems in Figma → Flutter
+
+</td>
+<td width="50%">
+
+**📖 &nbsp;Learning**
+- Advanced state management patterns in Flutter
+- Next.js App Router & Server Components
+- LLM integration patterns for mobile-first products
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌱 &nbsp;Exploring**
+- SaaS product architecture and monetization
+- Micro-SaaS ideas in the productivity space
+- Open-source contributions in the Flutter ecosystem
+
+</td>
+<td width="50%">
+
+**🎯 &nbsp;Goals — 2025**
+- Ship one open-source Flutter package
+- Launch a public-facing SaaS product
+- Contribute meaningful PRs to major Flutter repos
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                OPEN SOURCE & LEARNING                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⬡ &nbsp;Open Source Philosophy
+
+</div>
+
+I believe great software should be studied, not just used.
+
+Every project in this GitHub is an honest snapshot of where I am — no tutorial clones, no inflated portfolios. Just real problems I've tried to solve with the best tools I know.
+
+I contribute to open source because **the ecosystem I build on was built by someone who gave back first.**
+
+<br/>
+
+**Currently active in:**
+
+- 🐦 Flutter community discussions and package reviews
+- 🧪 Testing UI/UX patterns publicly through project iterations  
+- 📝 Documenting architecture decisions in project READMEs
+- 🔍 Code reviews and issue triage in Flutter-adjacent repos
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATISTICS                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⬡ &nbsp;GitHub Statistics
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iliyazdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyazdev&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iliyazdev&theme=tokyonight&border=7c3aed&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&border_radius=12" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iliyazdev&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=false&border_color=7c3aed&radius=12" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  COLLABORATION SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⬡ &nbsp;Let's Build Something
+
+</div>
+
+I'm genuinely interested in collaborating on projects that sit at the intersection of **thoughtful design** and **engineering rigor.**
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+**I'm a good fit if you need:**
+
+✦ A Flutter developer who cares about UI quality<br/>
+✦ Someone who can design *and* implement<br/>
+✦ A full-stack collaborator on a web + mobile product<br/>
+✦ An engineer who asks "why" before "how"
+
+</td>
+<td width="50%" align="center">
+
+**Ideal collaborations:**
+
+✦ Open-source Flutter packages or tools<br/>
+✦ Startup MVPs with real user problems<br/>
+✦ AI-powered productivity applications<br/>
+✦ Design systems that bridge Figma → code
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONTACT SECTION                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⬡ &nbsp;Find Me
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-iliyazdev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/iliyazdev)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaik_Iliyaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/iliyazdev)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:iliyaz@example.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-iliyaz.dev-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://iliyaz.dev)
+
+<br/>
+
+*Replace placeholder links above with your actual profiles before publishing.*
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    PREMIUM FOOTER QUOTE                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+```
+"The best products are invisible.
+ They just work — and you never notice why."
+```
+
+<br/>
+
+*— The principle behind every line of code I write*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=&fontSize=0" />
 
 </div>
