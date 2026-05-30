@@ -222,17 +222,12 @@ I'm passionate about collaborating on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iliyazdev)
 [![Email%20Me](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iliyazdev@gmail.com)
-[![GitHub%20Profile](https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iliyazdev)
 
 <br/>
 
 ### ✨ Let's Create Something Amazing Together ✨
 
 **Building the future, one pixel and one line of code at a time.** 🚀
-
-</div>
-
----
 
 <div align="center">
 
