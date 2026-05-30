@@ -218,51 +218,6 @@ Smart features, document intelligence, and AI integrations woven directly into u
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   JOURNEY TIMELINE                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⬡ &nbsp;The Journey
-
-</div>
-
-```
-▸ 2021  ──────────────────────────────────────────────────────────────────
-         Started with Python. Fell in love with building things from
-         nothing. First CLI tools, first web scrapers. The spark.
-
-▸ 2022  ──────────────────────────────────────────────────────────────────
-         Discovered Flutter. Realized I could build for every platform
-         with one codebase. First mobile app shipped. No going back.
-
-▸ 2023  ──────────────────────────────────────────────────────────────────
-         Built the College Management App. First real-world deployment.
-         Learned what it means to build for actual users, not demos.
-         Django + Python backend work deepened alongside.
-
-▸ 2024  ──────────────────────────────────────────────────────────────────
-         Expanded into UI/UX design. Started treating Figma as a
-         first-class tool. Smart Home project bridged hardware + software.
-         Firebase architecture became second nature.
-
-▸ 2025  ──────────────────────────────────────────────────────────────────
-         YOLO PDF — most ambitious project yet. AI integrations, cloud
-         functions, production-grade PDF engine. Thinking in products,
-         not features. Web frontend work with React/Next.js scaling up.
-
-▸ NOW   ──────────────────────────────────────────────────────────────────
-         Building in public. Contributing to open source. Exploring
-         AI-native application design. Looking for the next big problem.
-```
-
-<br/>
-
----
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CURRENT FOCUS SECTION                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
