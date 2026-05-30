@@ -70,7 +70,7 @@
 **📱 Mobile Apps**
 
 <br/>
-Flutter apps with perfect UI, smooth animations and production grade architecture
+Cross-platform Flutter applications with beautiful interfaces, smooth animations, scalable architecture, and production-ready performance.
 
 </td>
 <td width="25%" align="center">
