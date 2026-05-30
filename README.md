@@ -68,7 +68,7 @@
 **📱 Mobile Apps**
 
 <br/>
-Beautiful Flutter applications engineered with smooth animations, scalable architecture, and exceptional performance.
+Beautiful Flutter applications engineered with smooth animations, scalable architecture, and performance.
 
 </td>
 
