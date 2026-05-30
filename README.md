@@ -218,11 +218,6 @@ I'm passionate about collaborating on:
 
 ## 📫 Get in Touch
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iliyazdev)
-[![Email%20Me](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iliyazdev@gmail.com)
-
 <br/>
 
 ### ✨ Let's Create Something Amazing Together ✨
@@ -230,6 +225,11 @@ I'm passionate about collaborating on:
 **Building the future, one pixel and one line of code at a time.** 🚀
 
 <div align="center">
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iliyazdev)
+[![Email%20Me](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iliyazdev@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
 
