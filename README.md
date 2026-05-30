@@ -156,77 +156,39 @@ Empowering students with comprehensive academic tools, advanced analytics, and s
 
 ### 🔥 Building Next-Gen Products
 
-<table>
-<tr>
-<td align="center" width="50%">
-
 **Advanced Flutter Animations**  
 ✨ Motion Design & Micro-interactions  
 → Creating fluid, beautiful UX
-
-</td>
-<td align="center" width="50%">
 
 **AI/ML Integration**  
 🤖 Intelligent Mobile Apps  
 → Powering smart solutions
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
 **State Management**  
 ⚡ Advanced Patterns & Architecture  
 → Scalable app foundations
-
-</td>
-<td align="center" width="50%">
 
 **SaaS Products**  
 🚀 Building 0 to 1 Products  
 → From idea to market
 
-</td>
-</tr>
-</table>
-
 ### 💡 Exploring New Technologies
-
-<table>
-<tr>
-<td align="center" width="50%">
 
 **Generative AI**  
 🌟 LLM Integration & ML Models  
 → Next-generation features
 
-</td>
-<td align="center" width="50%">
-
 **Real-time Sync**  
 📡 Instant Data Synchronization  
 → Seamless user experiences
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
 
 **Progressive Web Apps**  
 🌐 PWA & Web Performance  
 → Fast, installable web apps
 
-</td>
-<td align="center" width="50%">
-
 **Performance Optimization**  
 ⚙️ Cross-Platform Excellence  
 → Blazing-fast applications
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -236,12 +198,21 @@ Empowering students with comprehensive academic tools, advanced analytics, and s
 
 <div align="center">
 
-| Role | Type | Impact |
-|------|------|--------|
-| 🎯 **Flutter Developer** | Full-time / Internship | Building Mobile Excellence |
-| 🎨 **UI/UX Designer** | Freelance / Contract | Designing Beautiful Experiences |
-| 💻 **Frontend Engineer** | Full-time / Freelance | Creating Stunning Interfaces |
-| 🚀 **Product Developer** | Freelance / Part-time | Building Digital Innovation |
+**🎯 Flutter Developer**  
+Full-time / Internship  
+*Building Mobile Excellence*
+
+**🎨 UI/UX Designer**  
+Freelance / Contract  
+*Designing Beautiful Experiences*
+
+**💻 Frontend Engineer**  
+Full-time / Freelance  
+*Creating Stunning Interfaces*
+
+**🚀 Product Developer**  
+Freelance / Part-time  
+*Building Digital Innovation*
 
 </div>
 
@@ -253,54 +224,29 @@ Empowering students with comprehensive academic tools, advanced analytics, and s
 
 ### What Excites Me
 
-<table>
-<tr>
-<td align="center" width="33%">
+**🚀 Innovative Products**  
+Pushing boundaries • Breaking the norm  
+*Creating products that reshape industries*
 
-🚀 **Innovative Products**  
-Pushing boundaries  
-Breaking the norm
+**🎨 Design Excellence**  
+Beautiful UI/UX • User-focused design  
+*Every pixel, every interaction matters*
 
-</td>
-<td align="center" width="33%">
+**🤖 AI Solutions**  
+Intelligent apps • Smart automation  
+*Powering the future with technology*
 
-🎨 **Design Excellence**  
-Beautiful UI/UX  
-User-focused design
+**💡 Impact & Purpose**  
+Real problem solving • Making a difference  
+*Building products that matter*
 
-</td>
-<td align="center" width="33%">
+**👥 Community**  
+Open-source projects • Knowledge sharing  
+*Growing together with the community*
 
-🤖 **AI Solutions**  
-Intelligent apps  
-Smart automation
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-💡 **Impact & Purpose**  
-Real problem solving  
-Making a difference
-
-</td>
-<td align="center" width="33%">
-
-👥 **Community**  
-Open-source projects  
-Knowledge sharing
-
-</td>
-<td align="center" width="33%">
-
-🌟 **Growth**  
-Learning together  
-Continuous improvement
-
-</td>
-</tr>
-</table>
+**🌟 Growth**  
+Learning together • Continuous improvement  
+*Always evolving, always learning*
 
 **📧 Always open to exciting conversations about tech, design, and innovation!**
 
