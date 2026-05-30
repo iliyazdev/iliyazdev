@@ -220,7 +220,7 @@ Freelance / Part-time
 
 ## 🤝 Let's Build Together
 
-<div align="center">
+<div align="left">
 
 ### What Excites Me
 
