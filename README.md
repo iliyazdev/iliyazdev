@@ -1,229 +1,74 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=SHAIK%20ILIYAZ&fontSize=60&fontColor=FFFFFF&fontAlignY=45&desc=Flutter%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Full%20Stack%20Engineer&descAlignY=70&descSize=20&descColor=FFFFFF&animation=fadeIn"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 Welcome to My Digital Space
-
-**Building exceptional digital experiences through code, design, and innovation**
-
-[LinkedIn](https://linkedin.com/in/iliyazdev) • [Email](mailto:iliyazdev@gmail.com) • [GitHub](https://github.com/iliyazdev) • [Portfolio](#) 
-
-</div>
+<h1 align="center">Hi there, I'm Shaik Iliyaz 👋</h1>
+<h3 align="center">Flutter Developer • UI/UX Designer • Full Stack Developer</h3>
+<p align="center">
+  <em>Designing Beautiful Experiences • Engineering Powerful Solutions • Building Intelligent Products</em>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 💡 About Me
+I'm a passionate developer and designer focused on transforming complex ideas into polished, production-ready applications. I specialize in building scalable mobile apps, modern web platforms, and AI-powered digital products.
 
-I'm a passionate **Flutter Developer** and **UI/UX Designer** dedicated to crafting premium digital experiences that solve real-world problems. With expertise across mobile development, full-stack engineering, and design systems, I transform ideas into production-ready applications.
-
-### 🎯 What I Do
-- 📱 **Mobile Development** — Building blazing-fast, beautiful Flutter apps
-- 🎨 **UI/UX Design** — Creating intuitive interfaces with Figma & design thinking
-- 💻 **Full Stack Development** — End-to-end solutions with modern web technologies
-- 🤖 **AI Integration** — Powering apps with intelligent features
-- 🚀 **SaaS Products** — Scaling applications from concept to market
+- 🚀 **Currently Building:** **YOLO PDF** - A premium, cross-platform PDF productivity suite built with Flutter.
+- 🎯 **Current Focus:** Advanced Flutter Architecture, UI Motion Design, and AI-Powered SaaS Products.
+- 💼 **Open to:** Flutter Internships, Junior Developer roles, UI/UX Design, and full-stack freelance projects.
 
 ---
 
-## 🚀 Featured Projects
+### 🛠 Tech Stack
 
-### 🟡 [YOLO PDF](https://github.com/iliyazdev)
-**Premium PDF Productivity Platform**
-
-<div align="center">
-
-| Feature | Status |
-|---------|--------|
-| 📄 Merge PDF | ✅ |
-| ✂️ Split PDF | ✅ |
-| 🗜️ Compress PDF | ✅ |
-| 🔄 Convert PDF | ✅ |
-| 👁️ OCR Support | ✅ |
-| 🎨 Modern UI | ✅ |
-| 🌍 Cross Platform | ✅ |
-
-**Tech Stack:** Flutter • Firebase • REST APIs
-
-</div>
-
----
-
-### 🏫 College Management App
-**Complete Digital Campus Ecosystem**
-
-A comprehensive platform managing every aspect of college operations with role-based access and real-time notifications.
-
-```
-📊 Features
-├── 👨‍🎓 Student Portal
-├── 👨‍🏫 Faculty Dashboard
-├── 📋 Attendance Management
-├── 📅 Timetable System
-├── 🔔 Real-time Notifications
-└── 🔐 Role-Based Access Control
-```
-
-**Tech Stack:** Flutter • Firebase • Firestore • Cloud Functions
-
----
-
-### 🏠 Smart Home Automation System
-**IoT-Powered Home Intelligence**
-
-Seamless control of home appliances with voice assistant integration and real-time communication.
-
-```
-🏡 Capabilities
-├── 🔌 ESP32 Integration
-├── 💡 Appliance Control
-├── 🎤 Voice Commands
-├── 📡 Real-time Sync
-└── 📊 Activity Monitoring
-```
-
-**Tech Stack:** ESP32 • Arduino • Sinric Pro • IoT
-
----
-
-### 🎓 Student Portal System
-**Academic Management Platform**
-
-Empowering students with comprehensive academic tools, dashboard analytics, and seamless communication.
-
-```
-🎒 Modules
-├── 🔑 Secure Authentication
-├── 👥 Student Management
-├── 📈 Academic Dashboard
-├── 📱 Responsive Design
-└── 🔍 Grade Tracking
-```
-
-**Tech Stack:** Python • Django • HTML5 • CSS3 • JavaScript
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-### 📱 Mobile Development
+**Mobile & Frontend**<br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-
-### 💻 Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔧 Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+**Backend & Cloud**<br>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🗄 Database & Backend Services
-![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🎨 Design & UX
+**Design & Tools**<br>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Wireframing](https://img.shields.io/badge/Wireframing-6C63FF?style=for-the-badge)
-![Prototyping](https://img.shields.io/badge/Prototyping-764BA2?style=for-the-badge)
-
-### 🛠 Tools & DevOps
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-</div>
 
 ---
 
-## 📊 GitHub Statistics
+### 🚀 Featured Projects
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iliyazdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iliyazdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&langs_count=6)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```
-🚀 Next Phase Learning
-├── Advanced Flutter Architecture
-├── Motion & Micro-interactions Design
-├── Firebase Advanced Features
-├── Full Stack Product Development
-├── AI/ML Integration Patterns
-└── Building SaaS Products
-```
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🟡 YOLO PDF** | Premium PDF productivity platform (Merge, Split, Compress, Convert, OCR). | Flutter, Firebase, REST APIs |
+| **🏫 College Management App** | Complete digital campus ecosystem with role-based student and faculty portals. | Flutter, Firebase, Firestore |
+| **🎓 Student Portal System** | Comprehensive academic management dashboard and grading platform. | Python, Django, HTML/CSS/JS |
+| **🏠 Smart Home Automation** | IoT automation project with appliance control and voice assistant support. | ESP32, Arduino, Sinric Pro |
 
 ---
 
-## 💼 Open Opportunities
-
-<div align="center">
-
-| 🎯 Role | 📍 Type |
-|---------|---------|
-| Flutter Developer | Internship / Full-time |
-| UI/UX Designer | Freelance / Contract |
-| Full Stack Engineer | Internship / Full-time |
-| Mobile Developer | Freelance / Part-time |
-
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iliyazdev&show_icons=true&theme=transparent&hide_border=true&title_color=02569B&icon_color=02569B&text_color=333333" alt="Iliyaz's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyazdev&layout=compact&theme=transparent&hide_border=true&title_color=02569B&text_color=333333" alt="Top Languages" width="48%">
+</p>
 
 ---
 
-## 🤝 Let's Collaborate
+### 📫 Let's Connect
 
-I'm always interested in:
-- 🚀 Innovative projects that push boundaries
-- 🎨 Design-focused products
-- 🤖 AI-powered applications
-- 💡 Impactful solutions to real problems
-- 👥 Open source contributions
-
----
-
-<div align="center">
-
-## 📫 Get in Touch
-
-<a href="https://linkedin.com/in/iliyazdev" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:iliyazdev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/iliyazdev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Designing Beautiful Experiences • Engineering Powerful Solutions • Building Intelligent Products ✨
-
-**Let's create something amazing together!** 🚀
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/iliyazdev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:iliyazdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/iliyazdev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
