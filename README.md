@@ -32,7 +32,7 @@
 
 </div>
 
-## 〔 The Story 〕
+## The Story
 
 > **A passion for games sparked my journey into technology.**
 >
