@@ -219,8 +219,6 @@ I'm passionate about collaborating on:
 ## 📫 Get in Touch
 
 ---
-
-<div align="center">
    
 **Let's Create Something Amazing Together**
 
