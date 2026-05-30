@@ -70,7 +70,7 @@
 **📱 Mobile Apps**
 
 <br/>
-Flutter applications with pixel-perfect UI, smooth animations, and production-grade architecture
+Flutter applications with perfect UI, smooth animations, and production-grade architecture
 
 </td>
 <td width="25%" align="center">
