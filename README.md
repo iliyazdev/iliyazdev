@@ -30,8 +30,6 @@
 
 <div align="center">
 
-## 〔 The Story 〕
-
 </div>
 
 ## 〔 The Story 〕
