@@ -8,7 +8,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Flutter+Developer+%7C+UI%2FUX+Designer;Frontend+Engineer+%7C+Full+Stack+Developer;AI+Product+Builder+%7C+Digital+Craftsman;I+don%27t+just+write+code+%E2%80%94+I+ship+products." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Flutter+Developer+%7C+UI%2FUX+Designer;Frontend+Engineer+%7C+Developer;AI+Product+Builder+%7C+Digital+Craftsman;I+don%27t+just+write+code+%E2%80%94+I+ship+products." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -63,6 +63,7 @@
 <td width="25%" align="center">
 
 **📱 Mobile Apps**
+
 <br/>
 Cross-platform Flutter applications with pixel-perfect UI, smooth animations, and production-grade architecture
 
@@ -70,22 +71,25 @@ Cross-platform Flutter applications with pixel-perfect UI, smooth animations, an
 <td width="25%" align="center">
 
 **🎨 Digital Experiences**
+
 <br/>
-UI/UX design systems, component libraries, and interfaces that feel native to every device they land on
+UI/UX design systems, and interfaces that feel native to every device they land on
 
 </td>
 <td width="25%" align="center">
 
 **🌐 Web Platforms**
+
 <br/>
-Full-stack web applications with React/Next.js frontends and Django or Firebase backends
+Web applications with React frontends and Django or Firebase backends
 
 </td>
 <td width="25%" align="center">
 
 **🤖 AI-Powered Products**
+
 <br/>
-Smart features, document intelligence, and AI integrations woven directly into user workflows
+Smart features, intelligence, and AI integrations woven directly into user workflows
 
 </td>
 </tr>
