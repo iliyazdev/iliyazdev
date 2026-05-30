@@ -218,7 +218,7 @@ I'm passionate about collaborating on:
 
 ## 📫 Get in Touch
 
-
+<div align="center">
 <br/>
 
 <div align="center">
