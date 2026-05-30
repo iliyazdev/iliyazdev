@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## 🌟 Welcome to My Digital Space
+🌟 Welcome to My Digital Space
 
 **Crafting exceptional digital experiences through innovative code and stunning design**
 
@@ -222,9 +222,10 @@ I'm passionate about collaborating on:
 <br/>
 
 <div align="center">
-### ✨ Let's Create Something Amazing Together ✨
+   
+**Let's Create Something Amazing Together**
 
-**Building the future, one pixel and one line of code at a time.** 🚀
+Building the future, one pixel and one line of code at a time.
 
 <div align="center">
 
