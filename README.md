@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=SHAIK%20ILIYAZ&fontSize=70&fontColor=FFFFFF&fontAlignY=50&desc=Flutter%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Digital%20Innovator&descAlignY=75&descSize=22&descColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=SHAIK%20ILIYAZ&fontSize=70&fontColor=FFFFFF&fontAlignY=45&desc=Flutter%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Full%20Stack&descAlignY=70&descSize=18&descColor=FFFFFF"/>
 
 </div>
 
@@ -8,14 +8,9 @@
 
 <div align="center">
 
-## 🌟 Welcome to My Digital Space
+## 🌟 Hey, I'm Shaik Iliyaz
 
-**Crafting exceptional digital experiences through innovative code and stunning design**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iliyazdev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iliyazdev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iliyazdev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=globe&logoColor=white)](https://iliyazdev.dev)
+**Building beautiful mobile apps and digital experiences**
 
 </div>
 
@@ -23,231 +18,108 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Flutter Developer** and **UI/UX Designer** dedicated to crafting premium digital experiences that solve real-world problems. With deep expertise in mobile development, frontend engineering, and modern design systems, I transform ideas into beautiful, production-ready applications.
+I'm a Flutter Developer and UI/UX Designer passionate about creating beautiful, user-friendly applications. I love turning ideas into reality through clean code and stunning design.
 
-### 🎯 What I Do
-
-- **📱 Mobile Development** — Building blazing-fast, beautiful Flutter apps with pixel-perfect UI
-- **🎨 UI/UX Design** — Creating intuitive interfaces with Figma & design thinking
-- **💻 Frontend Development** — Crafting responsive web experiences with React & modern tech
-- **🤖 AI Integration** — Powering apps with intelligent features
-- **🚀 Digital Products** — Scaling applications from concept to market
+**What I do:**
+- 📱 Build amazing Flutter apps
+- 🎨 Design beautiful user interfaces  
+- 💻 Create responsive web experiences
+- 🚀 Ship products that users love
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🟡 YOLO PDF — *Currently Building*
-**Premium PDF Productivity Platform**
+### 🟡 YOLO PDF
+**Premium PDF Tools Platform** (Currently Building)
 
-Transform your PDF workflow with cutting-edge technology.
+A modern PDF app with merge, split, compress, convert, and OCR features. Built with Flutter and Firebase.
 
-```
-✨ Powerful Features
-   ├─ 📄 Merge Multiple PDFs seamlessly
-   ├─ ✂️  Split PDFs with precision
-   ├─ 🗜️  Advanced Compression technology
-   ├─ 🔄 Format Conversion (PDF ↔ Images)
-   ├─ 👁️  Smart OCR Recognition
-   ├─ 🎨 Beautiful Modern Interface
-   └─ 🌍 iOS • Android • Web Support
-```
-
-**🛠 Built With:** Flutter • Firebase • REST APIs  
-**📊 Status:** `🚀 Active Development`
+**Tech:** Flutter • Firebase • REST APIs
 
 ---
 
-### 🏫 College Management App — *Completed*
-**Complete Digital Campus Ecosystem**
+### 🏫 College Management App
+**Complete Campus Management System**
 
-A comprehensive platform transforming college operations with intelligent role-based access and real-time notifications.
+Full-featured platform for students and faculty with attendance, timetables, and real-time notifications.
 
-```
-📚 Key Features
-   ├─ 👨‍🎓 Student Portal & Dashboard
-   ├─ 👨‍🏫 Faculty Management System
-   ├─ 📋 Smart Attendance Tracking
-   ├─ 📅 Dynamic Timetable System
-   ├─ 🔔 Real-time Push Notifications
-   ├─ 🔐 Role-Based Access Control
-   └─ 📊 Analytics & Reporting
-```
-
-**🛠 Built With:** Flutter • Firebase • Firestore  
-**📊 Status:** `✅ Production Ready`
+**Tech:** Flutter • Firebase • Firestore
 
 ---
 
-### 🏠 Smart Home Automation System — *Completed*
-**IoT-Powered Home Intelligence**
+### 🏠 Smart Home Automation
+**IoT Home Control System**
 
-Seamless control of home appliances with voice assistant integration and real-time communication.
+Voice-controlled home automation with ESP32 integration for smart appliance management.
 
-```
-🏡 Smart Capabilities
-   ├─ 🔌 ESP32 Microcontroller Integration
-   ├─ 💡 Appliance Control & Automation
-   ├─ 🎤 Voice Command Support
-   ├─ 📡 Real-time Device Synchronization
-   ├─ 📊 Activity Monitoring & Analytics
-   └─ 🔋 Energy Efficiency Tracking
-```
-
-**🛠 Built With:** ESP32 • Arduino • Sinric Pro  
-**📊 Status:** `✅ Complete`
+**Tech:** ESP32 • Arduino • Sinric Pro
 
 ---
 
-### 🎓 Student Portal System — *Completed*
-**Academic Management Platform**
+### 🎓 Student Portal
+**Academic Dashboard**
 
-Empowering students with comprehensive academic tools, advanced analytics, and seamless communication.
+Responsive student management system with grades, attendance tracking, and academic analytics.
 
-```
-📖 Core Modules
-   ├─ 🔑 Secure Authentication & Authorization
-   ├─ 👥 Student Profile Management
-   ├─ 📈 Academic Dashboard & Analytics
-   ├─ 📱 Fully Responsive Design
-   ├─ 🔍 Grade Tracking & History
-   └─ 📧 Notification System
-```
-
-**🛠 Built With:** Python • Django • HTML5 • CSS3 • JavaScript  
-**📊 Status:** `✅ Production Ready`
+**Tech:** Python • Django • HTML • CSS • JavaScript
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
+
+**Mobile & Frontend:**  
+Flutter • Dart • React • TypeScript • HTML5 • CSS3 • JavaScript
+
+**Design:**  
+Figma • UI/UX Design • Prototyping
+
+**Tools:**  
+Git • GitHub • VS Code • Firebase
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced Flutter animations & motion design
+- AI/ML integration in mobile apps
+- Building SaaS products
+- Progressive Web Apps
+- Real-time data synchronization
+
+---
+
+## 💼 Open to Opportunities
+
+- Flutter Developer roles (Full-time / Internship)
+- UI/UX Design projects (Freelance)
+- Frontend development (Full-time / Freelance)
+- Building digital products
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in:
+- Building innovative products
+- Design-focused applications
+- AI-powered solutions
+- Solving real problems
+- Open-source collaboration
+- Learning and growing together
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iliyazdev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iliyazdev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iliyazdev)
+
+---
 
 <div align="center">
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 💻 Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🎨 Design & UX
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Prototyping](https://img.shields.io/badge/Prototyping-764BA2?style=for-the-badge&logo=figma&logoColor=white)
-![Design Systems](https://img.shields.io/badge/Design%20Systems-667EEA?style=for-the-badge&logo=storybook&logoColor=white)
-
-### 🛠 Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-</div>
-
----
-
-## 🎯 Current Focus & Innovation
-
-<div align="left">
-
-### 🔥 Building Next-Gen Products
-
-**Advanced Flutter Animations**  
-✨ Motion Design & Micro-interactions  
-→ Creating fluid, beautiful UX
-
-**AI/ML Integration**  
-🤖 Intelligent Mobile Apps  
-→ Powering smart solutions
-
-**State Management**  
-⚡ Advanced Patterns & Architecture  
-→ Scalable app foundations
-
-**SaaS Products**  
-🚀 Building 0 to 1 Products  
-→ From idea to market
-
-### 💡 Exploring New Technologies
-
-**Generative AI**  
-🌟 LLM Integration & ML Models  
-→ Next-generation features
-
-**Real-time Sync**  
-📡 Instant Data Synchronization  
-→ Seamless user experiences
-
-**Progressive Web Apps**  
-🌐 PWA & Web Performance  
-→ Fast, installable web apps
-
-**Performance Optimization**  
-⚙️ Cross-Platform Excellence  
-→ Blazing-fast applications
-
-</div>
-
----
-
-## 💼 Open Opportunities
-
-<div align="left">
-
-**🎯 Flutter Developer**  Full-time / Internship  *Building Mobile Excellence*
-
-**🎨 UI/UX Designer**  Freelance / Contract  *Designing Beautiful Experiences*
-
-**💻 Frontend Engineer**  Full-time / Freelance  *Creating Stunning Interfaces*
-
-**🚀 Product Developer**  Freelance / Part-time  *Building Digital Innovation*
-
-</div>
-
----
-
-## 🤝 Let's Build Together
-
-<div align="left">
-
-### What Excites Me
-
-**Innovative Products**  Pushing boundaries • Breaking the norm  *Creating products that reshape industries*
-
-**Design Excellence**  Beautiful UI/UX • User-focused design  *Every pixel, every interaction matters*
-
-**AI Solutions**  Intelligent apps • Smart automation  *Powering the future with technology*
-
-**Impact & Purpose**  Real problem solving • Making a difference  *Building products that matter*
-
-**Community**  Open-source projects • Knowledge sharing  *Growing together with the community*
-
-**Growth**  Learning together • Continuous improvement  *Always evolving, always learning*
-
-**Always open to exciting conversations about tech, design, and innovation!**
-
-</div>
-
----
-
-## 📫 Get in Touch
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iliyazdev)
-[![Email%20Me](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iliyazdev@gmail.com)
-[![GitHub%20Profile](https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iliyazdev)
-
-<br/>
-
-### ✨ Let's Create Something Amazing Together ✨
-
-**Building the future, one pixel and one line of code at a time.** 🚀
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
+**Let's build something amazing together** 🚀
 
 </div>
