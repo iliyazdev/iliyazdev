@@ -64,37 +64,38 @@
 
 
 <td width="25%" align="center">
-  
-<br/>
 
 **📱 Mobile Apps**
 
 <br/>
-Cross-platform Flutter applications with beautiful interfaces, smooth animations, scalable architecture, and production-ready performance.
+Beautiful Flutter applications engineered with smooth animations, scalable architecture, and exceptional performance.
 
 </td>
+
 <td width="25%" align="center">
-  
+
 **🎨 Digital Experiences**
 
 <br/>
-UI/UX design systems, and interfaces that feel native to every device they land on
+Thoughtfully crafted interfaces and design systems focused on usability, consistency, and delight.
 
 </td>
+
 <td width="25%" align="center">
 
 **🌐 Web Platforms**
 
 <br/>
-Web applications with React frontends and Django or Firebase backends
+Modern web experiences powered by responsive frontends, reliable backends, and clean architecture.
 
 </td>
+
 <td width="25%" align="center">
 
 **🤖 AI-Powered Products**
 
 <br/>
-Smart features, intelligence, and AI integrations woven directly into user workflows
+Smart applications combining AI capabilities, automation, and intelligent workflows for real impact.
 
 </td>
 </tr>
