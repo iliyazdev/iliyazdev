@@ -4,11 +4,11 @@
 <!--                      HERO SECTION                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SHAIK%20ILIYAZ&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20products%20that%20feel%20inevitable.&descSize=18&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SHAIK%20ILIYAZ&fontSize=60&fontColor=ffffff&fontAlignY=38&fontAlignX=50&fontWeight=700" />
 
 <!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Flutter+Developer+%7C+UI%2FUX+Designer;Frontend+Engineer+%7C+Developer;AI+Product+Builder+%7C+Digital+Craftsman;I+don%27t+just+write+code+%E2%80%94+I+ship+products." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=UI%2FUX+Designer+%7C+Product+Builder+%7C+Digital+Experience+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,8 +36,7 @@
 
 > **A passion for games sparked my journey into technology.**
 >
-> What began as curiosity evolved into building mobile apps, digital products, and user experiences that solve real problems, today, I focus on Flutter, UI/UX design, and modern web development turning ideas into products people genuinely enjoy using, every project is a step toward mastering the craft of building meaningful digital experiences.
-
+> What began as curiosity evolved into building digital products, polished interfaces, and user experiences that solve real problems. Today, I focus on UI/UX design, product thinking, and modern web experiences that feel intuitive and useful.
 >
 > **I started as a gamer, now I build the experiences I once dreamed of playing.**
 
@@ -60,23 +59,21 @@
 <table width="100%">
 <tr>
 
-
-
 <td width="25%" align="center">
 
-**📱 Mobile Apps**
+**📱 Digital Products**
 
 <br/>
-Beautiful Flutter applications with smooth animations, scalable architecture, and performance.
+Thoughtful mobile and web experiences designed to be clear, engaging, and conversion-minded.
 
 </td>
 
 <td width="25%" align="center">
 
-**🎨 Digital Experiences**
+**🎨 UI/UX Experiences**
 
 <br/>
-Thoughtfully crafted interfaces and design systems focused on usability, consistency, and delight.
+Interfaces and design systems built around usability, consistency, and delight.
 
 </td>
 
@@ -85,7 +82,7 @@ Thoughtfully crafted interfaces and design systems focused on usability, consist
 **🌐 Web Platforms**
 
 <br/>
-Modern web experiences powered by responsive frontends, reliable backends, and clean architecture.
+Modern digital experiences powered by responsive frontends, clean structure, and strong interaction design.
 
 </td>
 
@@ -94,7 +91,7 @@ Modern web experiences powered by responsive frontends, reliable backends, and c
 **🤖 AI-Powered Products**
 
 <br/>
-Smart applications combining AI capabilities, automation, and intelligent workflows for real impact.
+Smart products combining UX strategy, automation, and intelligent workflows for real impact.
 
 </td>
 </tr>
@@ -114,12 +111,12 @@ Smart applications combining AI capabilities, automation, and intelligent workfl
 
 ## ⬡ Tech Stack
 
-### 🚀 Core Technologies
+### 🚀 Core Design & Product Skills
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UX Research](https://img.shields.io/badge/UX-Research-8B5CF6?style=for-the-badge)
+![Design Systems](https://img.shields.io/badge/Design-Systems-22C55E?style=for-the-badge)
+![Product Design](https://img.shields.io/badge/Product-Design-0EA5E9?style=for-the-badge)
 
 ### 🎨 Frontend & UI
 
@@ -130,8 +127,8 @@ Smart applications combining AI capabilities, automation, and intelligent workfl
 ### 🛠 Development Environment
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
 </div>
 
@@ -230,17 +227,17 @@ Smart applications combining AI capabilities, automation, and intelligent workfl
 <td width="50%">
 
 **🔨 &nbsp;Building**
-- AI-assisted features in Flutter apps using Gemini API
-- Production-ready Flutter architecture patterns (Clean Architecture + Riverpod)
-- Component design systems in Figma → Flutter
+- Product-focused interfaces and user journeys that feel effortless
+- Design systems that scale across web and mobile products
+- Clean UI patterns that balance clarity, speed, and usability
 
 </td>
 <td width="50%">
 
 **📖 &nbsp;Learning**
-- Advanced state management patterns in Flutter
-- Next.js App Router & Server Components
-- LLM integration patterns for mobile-first products
+- Advanced interaction design and product thinking
+- Next.js and modern frontend patterns
+- AI-powered user experiences and workflow design
 
 </td>
 </tr>
@@ -248,17 +245,17 @@ Smart applications combining AI capabilities, automation, and intelligent workfl
 <td width="50%">
 
 **🌱 &nbsp;Exploring**
-- SaaS product architecture and monetization
+- SaaS product strategy and user-centered growth
 - Micro-SaaS ideas in the productivity space
-- Open-source contributions in the Flutter ecosystem
+- Open-source contributions in design and front-end ecosystems
 
 </td>
 <td width="50%">
 
 **🎯 &nbsp;Goals — 2025**
-- Ship one open-source Flutter package
-- Launch a public-facing SaaS product
-- Contribute meaningful PRs to major Flutter repos
+- Design and launch a public-facing digital product
+- Build a scalable design system for real products
+- Contribute meaningful UX and frontend improvements to open-source projects
 
 </td>
 </tr>
@@ -272,13 +269,11 @@ Smart applications combining AI capabilities, automation, and intelligent workfl
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                OPEN SOURCE & LEARNING                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## ⬡ &nbsp;Open Source Philosophy
-
-
 
 </div>
 
@@ -292,10 +287,10 @@ I contribute to open source because **the ecosystem I build on was built by some
 
 **Currently active in:**
 
-- 🐦 Flutter community discussions and package reviews
-- 🧪 Testing UI/UX patterns publicly through project iterations  
-- 📝 Documenting architecture decisions in project READMEs
-- 🔍 Code reviews and issue triage in Flutter-adjacent repos
+- 🎨 UI/UX design conversations and interface reviews
+- 🧪 Testing product ideas and interaction patterns publicly
+- 📝 Documenting design decisions and product thinking in project READMEs
+- 🔍 Code reviews and issue triage in design-adjacent and frontend projects
 
 <br/>
 
@@ -305,7 +300,7 @@ I contribute to open source because **the ecosystem I build on was built by some
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  GITHUB STATISTICS                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -313,17 +308,17 @@ I contribute to open source because **the ecosystem I build on was built by some
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iliyazdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iliyazdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyazdev&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyazdev&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iliyazdev&theme=tokyonight&border=7c3aed&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&border_radius=12" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iliyazdev&theme=tokyonight&border=7c3aed&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9" alt="GitHub streak stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iliyazdev&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=false&border_color=7c3aed&radius=12" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iliyazdev&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=false&border_color=7c3aed&radius=12" alt="GitHub activity graph" />
 
 </div>
 
@@ -351,7 +346,7 @@ I'm genuinely interested in collaborating on projects that sit at the intersecti
 
 **I'm a good fit if you need:**
 
-✦ A Flutter developer who cares about UI quality<br/>
+✦ A designer who can think in product outcomes<br/>
 ✦ Someone who can design *and* implement<br/>
 ✦ A full-stack collaborator on a web + mobile product<br/>
 ✦ An engineer who asks "why" before "how"
@@ -361,10 +356,10 @@ I'm genuinely interested in collaborating on projects that sit at the intersecti
 
 **Ideal collaborations:**
 
-✦ Open-source Flutter packages or tools<br/>
-✦ Startup MVPs with real user problems<br/>
+✦ SaaS MVPs with real user problems<br/>
 ✦ AI-powered productivity applications<br/>
-✦ Design systems that bridge Figma → code
+✦ Design systems that bridge Figma → code<br/>
+✦ Products that need UX clarity and strong execution
 
 </td>
 </tr>
@@ -378,7 +373,7 @@ I'm genuinely interested in collaborating on projects that sit at the intersecti
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    CONTACT SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -408,7 +403,7 @@ I'm genuinely interested in collaborating on projects that sit at the intersecti
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    PREMIUM FOOTER QUOTE                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
 
